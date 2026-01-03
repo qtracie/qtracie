@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**qtracie/qtracie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Business Analytics and Project Management at UConn.
+I’m interested in data analytics, machine learning, and using data to support business decisions.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Programming & Tools: Python, R (RStudio), C#, SQL, Alteryx
+- Libraries & Frameworks: Pandas, NumPy, Scikit-learn
+- Data & Analytics: Data Analysis, Machine Learning, Data Visualization (Power BI, Excel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- Diabetes Prediction (Machine Learning, Python)
+
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/qtracie/
+- GitHub: https://github.com/qtracie
+- Medium: https://medium.com/@qtracie
