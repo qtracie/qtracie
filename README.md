@@ -12,6 +12,7 @@ I’m interested in data analytics, machine learning, and using data to support 
 - Data & Analytics: Data Analysis, Machine Learning, Data Visualization (Power BI, Excel)
 
 ### 📌 Projects
+- Airbnb Data Project (Cleaning & Preprocessing, Python)
 - Diabetes Prediction (Machine Learning, Python)
 
 ### 📫 Connect with me
