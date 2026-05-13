@@ -2,7 +2,7 @@
 
 💼 MS in Business Analytics & Project Management @ University of Connecticut  
 📊 Former PwC Vietnam Tax Advisor  
-📍 Interested in Data Analytics • Machine Learning • Financial Analytics • Decentralized AI
+📍 Interested in Data Analytics • Machine Learning • Financial Analytics
 
 ---
 
@@ -63,7 +63,7 @@ Time-series forecasting project focused on predicting weekly NASDAQ stock prices
 ### 🛒 Olist E-Commerce SQL Analytics
 Database design, SQL analytics, and ERD modeling project using the Olist e-commerce dataset.
 
-**Tools:** SQL, SQLite, Database Modeling
+**Tools:** SQL, SQLite, Database Modeling, Excel
 
 ---
 
