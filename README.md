@@ -71,7 +71,6 @@ Database design, SQL analytics, and ERD modeling project using the Olist e-comme
 
 - 💼 LinkedIn: https://www.linkedin.com/in/qtracie/
 - 📚 Medium: https://medium.com/@qtracie
-- 💻 GitHub: https://github.com/qtracie
 
 ---
 ⭐ Always interested in analytics, AI, finance, and meaningful real-world projects.
